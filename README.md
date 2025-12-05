@@ -1,3 +1,9 @@
+Namae: Bernice Mafu
+Student Number: 2022044985
+Course Name: Information Management Security
+Assignment Number: 2 (two)
+Title: Pactical Nmap workflow 
+
 This document summarizes and interprets the findings from the Nmap XML scan file, `nmap_scan.xml`, which targeted the IP address `182.27.134.119`. 
 The scan was initiated on Friday, December 5, 2025, using the command `/usr/lib/nmap/nmap -Pn -oX nmap_scan.xml 182.27.134.119`. 
 The target host's reverse DNS record identifies it as an Amazon EC2 instance: ec2-182-27-134-119.ap-southeast-6.compute.amazonaws.com`, suggesting the host resides within the AWS cloud environment. 
